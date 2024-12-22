@@ -91,7 +91,7 @@ typedef u_int8_t u8;
 #define EVM_RESTART_TTYD			(1ULL << 43)
 		//#define EVM_RESTART_VLMCSD			(1ULL << 44)
             //#define EVM_RESTART_DNSFORWARDER	(1ULL << 47)
-            //#define EVM_RESTART_SHADOWSOCKS		(1ULL << 48)
+#define EVM_RESTART_SHADOWSOCKS		(1ULL << 48)
             //#define EVM_RESTART_SS_TUNNEL		(1ULL << 49)
             //#define EVM_RESTART_MENTOHUST		(1ULL << 50)
             //#define EVM_RESTART_ADBYBY			(1ULL << 51)
